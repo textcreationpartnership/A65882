@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for subscriptions of money, &amp;c. the ensuing proposals having the 19th of May last been reported to the Right Honorable Sir William Hooker, Lord Major ... of London, the aldermen and commons of the same city in Common Council assembled ... they have thought fit to order the same to be printed and published in their names ...</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65882</idno>
+            <idno type="STC">Wing W195</idno>
+            <idno type="STC">ESTC R16339</idno>
+            <idno type="EEBO-CITATION">13356217</idno>
+            <idno type="OCLC">ocm 13356217</idno>
+            <idno type="VID">99243</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99243)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 402:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for subscriptions of money, &amp;c. the ensuing proposals having the 19th of May last been reported to the Right Honorable Sir William Hooker, Lord Major ... of London, the aldermen and commons of the same city in Common Council assembled ... they have thought fit to order the same to be printed and published in their names ...</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>Wagstaffe, Thomas, 1645-1712.</author>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nath. Brooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Wagstaffe.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Annuities.</term>
+               <term>Debts, Public --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99243:1"/>
+            <pb facs="tcp:99243:1" rendition="simple:additions"/>
+            <p>PROPOSALS FOR Subſcriptions OF MONEY, &amp;c.</p>
+            <p>The Enſuing Propoſals having the 19th of <hi>May</hi> laſt been Reported to the Right Honorable Sir <hi>William Hooker,</hi> Lord Major of this Honourable City of <hi>London,</hi> the Aldermen and Commons of the ſame City in Common Council aſſembled, and by them duly conſider<g ref="char:EOLhyphen"/>ed of, and well approved, they have thought fit to order the ſame to be Printed and publiſh<g ref="char:EOLhyphen"/>ed in their names, and have appointed a Select Committee, to manage the ſame on the Cities behalf.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nath. Brooke,</hi> at the Angel in <hi>Corn-hill.</hi> 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:99243:2"/>
+            <pb n="1" facs="tcp:99243:2"/>
+            <head>An Advertiſement and Demonstration con<g ref="char:EOLhyphen"/>cerning the Improvement of Moneys to the great Benefit and Advantage of all Perſons, of what Nation, Sex, Age, De<g ref="char:EOLhyphen"/>gree or Quality ſoever; willing to advance any Sum or Sums, according to the Me<g ref="char:EOLhyphen"/>thod herein after-mentioned, propounded to the Right Honourable, the Lord <hi>Major,</hi> Aldermen and Commons in Common Coun<g ref="char:EOLhyphen"/>cil aſſembled.</head>
+            <p n="1">1. THE Sum to be advanced by any Perſon is not to be leſs than Twenty Pounds for one Life; but any Perſon or Perſons may advance as many ſeveral Twenty Pounds as he, or ſhe, or they pleaſe; upon any one Life; or upon ſo many ſeveral Lives as they ſhall name, whether their own or others: The Profit and Annuity of the Moneys to be at the diſpoſal of ſuch Perſon or Per<g ref="char:EOLhyphen"/>ſons (his or their Heirs, Executors or Aſſigns) who advanceth the ſame; although in the Names of other Perſons, during the Na<g ref="char:EOLhyphen"/>tural Lives of ſuch Perſons as are by them named.</p>
+            <p n="2">2. When any Perſon or Perſons of the reſpective Rank where<g ref="char:EOLhyphen"/>in he, ſhe or they, is, or are named or regiſtred ſhall happen to die, then the Profit and Annuity, formerly claimed in the name and names of the party or parties deceaſed, ſhall afterwards, by right of Survivourſhip, belong to the reſt of thoſe that have advanced Money in the ſame Rank in proportion to their Sum advanced; and ſo ſucceſſively, as any Perſon or Perſons named or regiſtred
+<pb n="2" facs="tcp:99243:3"/>ſhall happen to die, the whole Profit and Annuity accruing, to be ſtill divided amongſt the Survivours, and ſo until the laſt ſurviv<g ref="char:EOLhyphen"/>ing Perſon named or regiſtred in the Rank; the whole Profit and Annuity, to be enjoyed or diſpoſed of, by ſuch Perſon or Perſons advancing the Money, during the Natural Life of the party named or regiſtred; and after his or her deceaſe, ſo named or regiſtred, then the payment of the whole Annuity of or in that Rank, as alſo of or in all the other Ranks, in like manner to ceaſe and de<g ref="char:EOLhyphen"/>termine.</p>
+            <p n="3">3. The Annuity, to be paid to the Advancers of Money, is to begin after the Rate of ſix <hi>per Cent.</hi> and ſo to be yearly paid to each advancer of Money during the Natural Lives of the Perſons named or regiſtred, together with the increaſe of the Annuity, which by caſualty of Death from time to time will happen, to the ſurviving Advancers; ſo that the Longeſt Livers will have a year<g ref="char:EOLhyphen"/>ly Augmentation of Annuity; and ſome of the laſt Livers will infallibly receive a moſt conſiderable Revenue; ſo long as they live, for ſo ſmall a Sum as Twenty pounds to be advanced.</p>
+            <p n="4">4. All Perſons inhabiting within any of his Majeſties Domini<g ref="char:EOLhyphen"/>ons, or in any of the Parts beyond the Seas; who ſhall deſire to advance Moneys in all or any of the Ranks, as is herein after-mentioned, may authorize any Perſon or Perſons, or his or their Correſpondents in <hi>London,</hi> to advance ſuch Sum or Sums of Mo<g ref="char:EOLhyphen"/>neys in ſuch Names as they ſhall think fit; and in ſo doing may have and enjoy the ſame benefit, as thoſe that dwell in <hi>London.</hi>
+            </p>
+            <p n="5">5. This extraordinary Gain being not only Lawful, but very Ad<g ref="char:EOLhyphen"/>vantageous, there can be no other way propoſed whereby, in laying out ſo ſmall a Sum as Twenty pounds, there can be produced ſo great an Encreaſe, as by Survivourſhip will moſt certainly accrue to many Perſons, and eſpecially to the Longeſt Liver of this Rank.</p>
+            <p n="6">6 Such as will advance ſeveral Sums of Twenty pounds in all or in any of the ſeveral Ranks, in the Names of ſuch perſons as are of the Age agreeable to each Rank, the party advancing the Mo<g ref="char:EOLhyphen"/>ney may receive the Profit and Annuity, ariſing thereby, to them<g ref="char:EOLhyphen"/>ſelves, during Life; and their Executors, Adminiſtrators or Aſ<g ref="char:EOLhyphen"/>ſigns during the Natural Lives of thoſe in whoſe Names the ſaid Sum or Sums of Money is or are advanced; ſo that ſuch as will ſpare Money to Advance, for five, eight or ten Lives, more or leſs,
+<pb n="3" facs="tcp:99243:3"/>in each Rank; ſome one of theſe Lives in all probability may hap<g ref="char:EOLhyphen"/>pen to be the Longeſt Liver of the Rank, wherein they are intereſ<g ref="char:EOLhyphen"/>ſed; whereby a moſt conſiderable Revenue, may be obtained, even beyond what can be expected (without any trouble or pains) from any other Adventure whatſoever.</p>
+            <p n="7">7. All Perſons who ſhall be willing to ſubſcribe to advance Twenty pounds, or more, upon the advantageous Conditions afore<g ref="char:EOLhyphen"/>ſaid, ſhall have Security, to their own contentment and ſatisfaction, at the time of paying in their Moneys.</p>
+            <p>The Parties ſubſcribing may take their Election, which of the Ranks herein after-mentioned they will be intereſſed in; whe<g ref="char:EOLhyphen"/>ther in all, or ſo many of them as they pleaſe, and may nominate any Perſons of the Age agreeable to ſuch Rank, or Banks, as they ſhall judge moſt expedient for their own advantage.</p>
+            <list>
+               <item>The firſt Rank or <hi>Claſſis</hi> is to conſiſt of Children, from one Moneth old to ſeven years old.</item>
+               <item>The Second, for ſuch as are from ſeven years to fourteen years old.</item>
+               <item>The Third for ſuch as are from fourteen years to twenty one years old.</item>
+               <item>The Fourth, for ſuch as are from twenty one years to twenty eight years.</item>
+               <item>The Fifth, for ſuch as are from twenty eight years to thirty five.</item>
+               <item>The Sixth, for ſuch as are from thirty five to forty two.</item>
+               <item>The Seaventh, for ſuch as are from forty two to forty nine.</item>
+               <item>The Eighth for ſuch as are from forty nine to fifty ſix.</item>
+               <item>The Ninth for ſuch as are from fifty ſix to ſixty three.</item>
+               <item>The Tenth for ſuch as are from ſixty three to ſeventy years old and upward.</item>
+            </list>
+            <p n="8">8. The time for Subſcriptions being determined before, payment of any money, the Subſcribers in every Rank, or ſo many as ſhall pleaſe, after notice given, ſhall meet and Elect by Scrutiny or Lots, Ten perſons out of each of the ſeven eldeſt Ranks, to be Truſtees and chief Directors for the managing and ordering of ſuch mat<g ref="char:EOLhyphen"/>ters and things, as from time to time ſhall be found moſt conducible to the the benefit of each Rank; as to the Profit and Annuity thereunto reſpectively belonging, and that every every one con<g ref="char:EOLhyphen"/>cerned may have his juſt due.</p>
+            <pb n="4" facs="tcp:99243:4"/>
+            <p>And until there ſhall be perſons found of twenty five years of Age, in the three firſt Ranks, out of the Seventy which ſhall be choſen to govern the Seven other Ranks, there ſhall be Twenty one choſen to be chief Directors for the three firſt Ranks; Seven in each Rank for managing and ordering the Affairs of the ſaid Ranks: and when any of the Directors happen to die, another ſhall be e<g ref="char:EOLhyphen"/>lected as above, by Scrutiny or Lots, out of the ſame Rank to ſuc<g ref="char:EOLhyphen"/>ceed in his place. And all the Directors of each Rank ſhall preſide yearly by Turns, and meet once in every Month at the leaſt, or oftner if need require: and that at every Meeting five of the Directors ſhall be a ſufficient Number, to Act to all intents and purpoſes, as if they were all met together; Mr. <hi>Philip de Cardonnel</hi> Overſeer, or his Deputy or Deputies, to be aſſiſting at all Meet<g ref="char:EOLhyphen"/>ings, for Regiſtring and Signing all Matters agreed upon, without which the ſame ſhall be null and void.</p>
+            <p n="9">9. At the time of the payment of the Money ſubſcribed, the Names of all and every the Perſons, for whoſe Life or Lives the Moneys are advanced, ſhall be entred in Regiſters, to be kept for that purpoſe of all the ſeveral Ranks: And Certificates are likwiſe to be produced, of the Age of the reſpective Parties; either from the Pariſh-Church-Regiſter, where the ſaid Parties were baptized: and in default thereof by ſuch authentick Certificates as ſhall be ſatisfa<g ref="char:EOLhyphen"/>ctory to the chief, Directors of the Truth thereof, with the Names of their Parents, and their Additions, Trades and Callings and Places of Reſidency; and in caſe of Removal, notice to be giv<g ref="char:EOLhyphen"/>en to the chief Directors or Overſeeer that the ſame be Regi<g ref="char:EOLhyphen"/>ſtred.</p>
+            <p n="10">10. Such further Directions, as are neceſſary for diſpoſing the Money to be paid in, and alſo for the chief Directors of each Rank for the well-managing and ordering the publick Advantage there<g ref="char:EOLhyphen"/>of; are prepared by the Author hereof to be communicated to the Directors, ſo ſoon as they ſhall be elected by the Subſcribers.</p>
+            <p n="11">11. The Time appointed for the Subſcriptions is to commence from the 24. of this inſtant <hi>June,</hi> and ſo to conclude upon the 25. of <hi>March</hi> following: To which purpoſe, attendance to be given every day in the week (Sunday excepted) both Forenoon from Nine of the Clock until Twelve, and in the Afternoon from Three of the Clock until Six of the Clock; at the old Treaſury-chamber,
+<pb n="5" facs="tcp:99243:4"/>right over againſt the Chamberlains Office in the Guild-hall, <hi>London;</hi> where the Office is to be kept: in which Place, Books for all the ſeveral Ranks aforementioned, will be kept ready, to enter the Subſcriptions of all ſuch Perſons as ſhall pleaſe to ſend or re<g ref="char:EOLhyphen"/>pair to the place aforeſaid, where theſe printed Books are to be had at three pence a piece, or at the Angel in <hi>Cornhill</hi> near the Royal Exchange.</p>
+            <p n="12">12. Parents will hereby have opportunity with ſo ſmall a Sum as Twenty pounds, to raiſe conſiderable Portions for their Sons and Daughters; and the longer the Children live, the leſs charge<g ref="char:EOLhyphen"/>able will they be to their Parents, by reaſon of the Encreaſe of the Annuity, to be paid them during their Natural Life; ſo that con<g ref="char:EOLhyphen"/>ſidering a conſtant and growing Annuity yearly to be paid during Life, What is the hazard of loſing Twenty pounds, in compariſon to the great advantage that may be obtained by Survivourſhip? conſidering alſo, that before a Child may attain to the Age of twenty one years, he or ſhe may come to reap the Benefit of twen<g ref="char:EOLhyphen"/>ty pounds <hi>per Annum,</hi> for twenty pounds only advanced in his Name: Yea the benefit of Survivourſhip may be ſo ſucceſsful, that the annuity of the whole Rank may fall to his or her ſhare: in ſo much that advancing for two or three Lives for any Child, either Son or Daughter, the Annuity may ariſe to a plenti<g ref="char:EOLhyphen"/>ful Maintenance for any ſuch Child or Children, ſo long as they live; or be a good Preferment for a Son or Daughter, at the time of his or her Marriage. And as the Increaſe of their An<g ref="char:EOLhyphen"/>nuity depends upon their Lives, Parents will not therefore be wanting to cheriſh their Children the more; and ſo reciprocally every Relation, intereſſed in any of the Ranks, will cheriſh one another, in taking the greater care of preſerving their mutual healths: and by this way and means, there will be a yearly increaſe of Annuity, without Care, Danger or Uſury.</p>
+            <p n="13">13. All perſons who are in Expectance of any Eſtate in Rever<g ref="char:EOLhyphen"/>ſion, after one, two or three Lives; as Gentlemen who are youn<g ref="char:EOLhyphen"/>ger Brothers, Lords of Copy-hold-mannours, or other Perſons, who have contracted to pay Annuities for Life or Lives, or ſuch like, may hereby have opportunity to make themſelves gainers, by advancing Twenty pounds or more, in the Name of ſuch Life or Lives, as they are in expectations to have any benefit of, by ſurvivour<g ref="char:EOLhyphen"/>ſhip,
+<pb n="6" facs="tcp:99243:5"/>whether the parties live or die who have the Eſtate in poſ<g ref="char:EOLhyphen"/>ſeſſion, for the parties advancing ſo ſmall a Sum as Twenty pounds for a Life, from whom may be expected one hundred pounds <hi>per Annum,</hi> more or leſs: If the Party live long, the Annuity of the Twenty pounds advanced may improve by Survivourſhip, to a greater Annuity than the Reverſional Eſtate may amount unto; or if the Eſtate in Reverſion by the death of the Party come to the hands of the Perſon advancing Money, then the loſs of twenty pounds only will be ſufficiently recompenſed.</p>
+            <p n="14">14. For Example, thus; C. D. younger Brother of A. B. who hath one hundred pounds <hi>per annum,</hi> which will deſcend to C. D. at the death of A. B. Now C. D. advancing twenty pounds in the Name of A. B. ſhall receive the Annuity of the ſame annually during the Natural Life of A. B. and the increaſe of Annuity which may ariſe by his Survivourſhip: ſo that if A. B. prove a longer Liver, although C. D. by that means may reap no benefit of the Reverſional Eſtate of A. B. yet he ſhall thereby have the Benefit of the improvement of the Increaſe of Annuity, which by caſualty may more and more increaſe, by how much the longer A. B. con<g ref="char:EOLhyphen"/>tinues alive; ſo that A. B. living or dying, C. D. his Executors, Adminiſtrators or Aſſigns will be gainers.</p>
+            <p n="15">15 Alſo by way of Example; A Lord of a Mannor hath a Life remaining upon an Eſtate of an hundred pounds <hi>per annum,</hi> for which he hath received one thouſand four hundred pounds for three Lives, now if the Lord of the Mannor advance Twenty pounds in the Name of the Tenant, that hath the remaining Life upon his Eſtate; the Lord may be a gainer whether his Tenant live or die: for if the Tenant live long, the Annuity may ſoon ariſe to one hun<g ref="char:EOLhyphen"/>dred pounds <hi>per annum</hi> or more; or if the Tenant die, the Lord of the Mannour will not have any cauſe to repine at the loſs of Twenty pounds, when by that means his Eſtate of one hundred pounds <hi>per annum</hi> will return again into his poſſeſſion, and ſo he may grant a new Eſtate for three Lives, and receive a Fine for the ſame, and may again advance Twenty pounds for each Life, and there<g ref="char:EOLhyphen"/>by become a gainer (all the while the Tenant lives) without any great Stock; which otherwiſe than by ſuch means as are here pro<g ref="char:EOLhyphen"/>poſed cannot be effected to ſo great advantage.</p>
+            <p n="16">16. Alſo for Example; E. F. for five hundred pounds, ſettleth
+<pb n="7" facs="tcp:99243:5"/>an Annuity of fifty pounds <hi>per annum</hi> upon G. H. during life<g ref="char:punc">▪</g> now if E. F. advance Twenty pounds in the Name of G. H. he will be thereby aſcertained, either to receive a more conſiderable Annuity for his twenty pounds, than is paid to G. H. if he continue to live long; or if G. H. die, then the fifty, pounds <hi>per annum</hi> ceaſing, he will thereby become gainer; but without ſuch Means as are hereby propoſed, E.F. hath no opportunity of reaping of any ſuch Benefit as may ariſe by advancing twenty pounds upon the ſame Life.</p>
+            <p n="17">17. Maſters and Miſtreſſes of Men and Maid-ſervants may have a good opportunity, by this means, to reward and prefer their Ser<g ref="char:EOLhyphen"/>vants, and to encourage them to be more faithful in the perform<g ref="char:EOLhyphen"/>ance of their duties, by advancing Twenty pounds in their Names; always reſerving the Annuity to themſelves during their own Lives, if they pleaſe; and when they come to die, then to leave the ſame for a Legacy to their Servant, if they ſhall find it expedient, or to diſpoſe thereof to any other, if the Servant prove unde<g ref="char:EOLhyphen"/>ſerving.</p>
+            <p n="18">18. All Perſons charitably inclined, may advance twenty pounds in the Name of ſome Perſon of a temperate and ſober Converſati<g ref="char:EOLhyphen"/>on, and give the Annuity thereof to ſuch pious and charitable Uſes, as are moſt agreeable to his intention, which may in ſome years amount to a greater Annuity than the twenty pounds ad<g ref="char:EOLhyphen"/>vanced; whereby much good may be done in placing forth poor Children, and relieving aged and impotent poor; Orphans and poor Scholars.</p>
+            <p n="19">19. The Nobility and Gentry and other Perſons, may ſave out of their ſuperfluous expences ſeveral Sums of Twenty pounds to be ad<g ref="char:EOLhyphen"/>vanced in the Name of their younger Children; by which means, the longer they live, the better they will be provided for; and againſt the time of their Age of twenty one years, they may enjoy a con<g ref="char:EOLhyphen"/>ſiderable Annuity, and that raiſed inſenſibly for them, without hazard, charge or trouble.</p>
+            <p n="20">20. All ſuch, Perſon or Perſons, as would convert his, her or their Annuities into ready Moneys, may do the ſame by diſpoſing thereof at ſo many years purchaſe as a Life is worth; whereas if the Parents and Benefactors ſhould be to furniſh them with ſo much at once, to be taken out of the main Stock, perhaps it
+<pb n="8" facs="tcp:99243:6"/>might not eaſily be compaſſed, or at leaſt may prove to be very incommodious for them, but with a Portion thus to be raiſed, from a ſmall ſum of twenty pounds thus to be advanced, young<g ref="char:EOLhyphen"/>er Children may be competently provided for, to undertake ſuch Profeſſions or Trades as may beſt agree with their Inclinations and Educations.</p>
+            <p n="21">21. Widows, Fatherleſs Children and Aged perſons, who are ſubject to many Infirmities and Caſualties, and often prove bur<g ref="char:EOLhyphen"/>thenſom to thoſe who expect ſome benefit by their death; if they do advance twenty pounds upon their Lives, then their long Lives will be wiſhed for, and their Relations will not neglect to take care of them, it being apparent, that the longer they live, the greater their Annuities will be: And ſuch Widows, Father<g ref="char:EOLhyphen"/>leſs Children and Aged perſons, who are leaſt able to help them<g ref="char:EOLhyphen"/>ſelves, or manage their Eſtates, much leſs to improve the ſame, will find great advantage hereby, and be freed from all hard uſage, hazard, trouble or care.</p>
+            <p>This Lawful way of improving Moneys, may exceed any Be<g ref="char:EOLhyphen"/>nefit to be expected by any Trade or Traffick yet diſcovered: for ſuch as ſhall have the benefit of Survivourſhip, or happen to be ſome of the longeſt Livers in that Rank, wherein they ſhall be intereſſed, may by this means, namely by advancing twenty pounds, grow rich, which Money probably otherwiſe might be Dormant in Caſh, unprofitable to themſelves and the Publick: And by this means alſo, all perſons cencerned, will be more ſtu<g ref="char:EOLhyphen"/>dious of prolonging their dayes, by Sobriety and Tempe<g ref="char:EOLhyphen"/>rance.</p>
+            <p n="22">22. All Corporations, Colleges, Commonalties, Towns, Vil<g ref="char:EOLhyphen"/>lages and Fraternities, may enjoy benefit hereby, namely by advancing Moneys in the Names of ſuch particular perſons as they ſhall pleaſe, for the Uſe and Benefit of their Reſpective Societies; it being not improbable, that amongſt many per<g ref="char:EOLhyphen"/>ſons, ſome one or more may live long enough to receive ſo conſiderable an Annuity, as may far exceed the Money ad<g ref="char:EOLhyphen"/>vanced by ſuch Corporations, Colleges, Towns, Villages, or Fraternities, <hi>&amp;c.</hi>
+            </p>
+            <p n="23">
+               <pb n="9" facs="tcp:99243:6"/>23. All Perſons, who by Intermarriage have made, or hereafter ſhall make any Joyntures; may by this means have opportuni<g ref="char:EOLhyphen"/>ties to advance Money in the Name of the Joyntreſs; whoſe An<g ref="char:EOLhyphen"/>nuity the longer ſhe lives, the more it will increaſe, and may ariſe to equal the Joynture; which will be a great advantage to any Heir, if the Joyntreſs ſhould prove a long Liver.</p>
+            <closer>
+               <signed>Wagſtaffe.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
